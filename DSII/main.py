@@ -1,5 +1,3 @@
-#Nathanial Toti
-#ID: 002147225 
 from Hash import Hash
 from LoadTruck import LoadTruck
 from Deliver import Dijkstra
